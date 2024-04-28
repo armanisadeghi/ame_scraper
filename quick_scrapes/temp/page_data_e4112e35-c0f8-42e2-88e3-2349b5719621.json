@@ -1,0 +1,175 @@
+{
+    "tables": {
+        "H3: Pros and cons of each filler type": [
+            {
+                "pre_table_text": "",
+                "table_content": [
+                    {
+                        "Filler type": "Hyaluronic acid",
+                        "Pros": "transparent and easy for a practitioner to smooth out during treatment\nnatural looking\ncan be easily spread and removed if any issues occur during the procedure",
+                        "Cons": "produces the shortest result of any filler"
+                    },
+                    {
+                        "Filler type": "Poly-L-lactic acid",
+                        "Pros": "dramatically invigorates collagen production\ndissipates within a few days of injection, but results are longer lasting than hyaluronic acid",
+                        "Cons": "thicker than hyaluronic acid\nmight cause lumps under the skin in some instances"
+                    },
+                    {
+                        "Filler type": "Calcium hydroxylapatite",
+                        "Pros": "thicker than the other fillers\nmay be harder to smooth out by a less-experienced practitioner\nlonger lasting than the other fillers",
+                        "Cons": "in rare instances, may cause nodules to form under the eye\nsome doctors feel it gives a too-white appearance"
+                    },
+                    {
+                        "Filler type": "Fat transfer",
+                        "Pros": "the longest lasting type of filler",
+                        "Cons": "requires liposuction and surgery recovery\nhas more downtime and more risk associated with it due to the need for anesthesia\nnot recommended for people who may absorb fat quickly through lifestyle factors, such as elite athletes or cigarette smokers"
+                    }
+                ]
+            }
+        ]
+    },
+    "lists": {
+        "H1: All About Eye Fillers": [
+            {
+                "pre_list_text": "Deciding whether or not you should have an eye filler procedure is a big decision. You\u2019ll need to consider things such as:",
+                "list_items": [
+                    "cost",
+                    "type of filler",
+                    "choice of professional to do the procedure",
+                    "recovery time",
+                    "potential side effects"
+                ],
+                "post_list_text": "Eye fillers can work wonders, but they\u2019re not a miracle solution. For example, they\u2019re not permanent, and they won\u2019t address some concerns, such as crow\u2019s feet."
+            }
+        ],
+        "H3: Hyaluronic acid": [
+            {
+                "pre_list_text": "Hyaluronic acidis naturally produced by the body. Hyaluronic acid fillers are made from a synthetic gel that mimics the body\u2019s natural substance. Popular brand names include:",
+                "list_items": [
+                    "Restylane",
+                    "Belotero",
+                    "Juvederm"
+                ],
+                "post_list_text": "Hyaluronic acid fillers have been shown to support collagen production in the skin. Lidocaine, an anesthetic that helps numb the area, is an ingredient added to some types of hyaluronic fillers."
+            }
+        ],
+        "H3: Fat transfer (fat grafting, microlipoinjection, or autologous fat transfer)": [
+            {
+                "pre_list_text": "The fat is usually taken from the:",
+                "list_items": [
+                    "abdomen",
+                    "hip",
+                    "buttocks",
+                    "thigh"
+                ],
+                "post_list_text": "The following table highlights the pros and cons of each filler type. Talk to your doctor about each potential solution so you can decide which one feels best for you."
+            }
+        ],
+        "H3: Recovery": [
+            {
+                "pre_list_text": "In general, this is what you can expect during recovery:",
+                "list_items": [
+                    "After the procedure, your doctor will give you an ice pack to apply to the area.",
+                    "You may see some redness, bruising, or swelling afterward, but in most instances these side effects will be short-lived.",
+                    "Your doctor will recommend a follow-up appointment in a few days to assess the area and to determine whether an additional injection of filler is needed.",
+                    "Several injections over a period of weeks or months may be recommended.",
+                    "Unlike synthetic fillers, if you have fat grafting done, you can anticipate a 2-week downtime period."
+                ],
+                "post_list_text": "Fillers absorb back into the body over time. They don\u2019t provide permanent results. Here\u2019s how long each filler will last:"
+            }
+        ],
+        "H3: Results": [
+            {
+                "pre_list_text": "Fillers absorb back into the body over time. They don\u2019t provide permanent results. Here\u2019s how long each filler will last:",
+                "list_items": [
+                    "Hyaluronic acid fillerstypically last anywhere from 9 months to 1 year.",
+                    "Calcium hydroxylapatitetypically lasts from 12 to 18 months.",
+                    "Poly-L-lactic acidcan last as long as 2 years.",
+                    "Afat transfermay last as long as 3 years."
+                ],
+                "post_list_text": ""
+            }
+        ],
+        "H2: Who\u2019s a good candidate?": [
+            {
+                "pre_list_text": "Darkness in the tear trough area is often genetic, but a number of other issues can also cause it, such as:",
+                "list_items": [
+                    "aging",
+                    "poor sleep patterns",
+                    "dehydration",
+                    "too much pigment",
+                    "visible blood vessels"
+                ],
+                "post_list_text": "Eye fillers are most effective for people who have dark under-eye hollows caused by genetics or aging, as opposed to lifestyle factors."
+            }
+        ],
+        "H2: What are the possible side effects?": [
+            {
+                "pre_list_text": "In most instances, the side effects from eye fillers will be minimal and short-lived. They can include:",
+                "list_items": [
+                    "redness",
+                    "puffiness",
+                    "small red dot at the injection site(s)",
+                    "bruising"
+                ],
+                "post_list_text": "If the filler is injected too close to the skin\u2019s surface, the area may take on a blue or puffy appearance. This side effect is known as the Tyndall effect."
+            }
+        ],
+        "H3: Minimizing side effects": [
+            {
+                "pre_list_text": "Serious side effects include:",
+                "list_items": [
+                    "uneven results, such as a lack of symmetry between each eye",
+                    "tiny bumps under the skin",
+                    "nerve paralysis",
+                    "scarring",
+                    "blindness"
+                ],
+                "post_list_text": "It\u2019s important to note that the FDA has issued anofficial warningabout certain dermal fillers. Make sure to discuss this with your practitioner before your procedure."
+            }
+        ],
+        "H2: How to find a board certified surgeon": [
+            {
+                "pre_list_text": "At your initial consultation, prepare a list of questions to ask. These can include:",
+                "list_items": [
+                    "How many years of practice do you have?",
+                    "How many times a year do you perform this particular procedure?",
+                    "How many times a year do you perform this particular procedure in people of my age group, or with my specific condition?",
+                    "What type of filler do you typically recommend and why?",
+                    "What type of filler do you recommend for me and why?"
+                ],
+                "post_list_text": ""
+            }
+        ],
+        "H3: How we reviewed this article:": [
+            {
+                "pre_list_text": "",
+                "list_items": [
+                    "Dermal fillers approved by the Center for Devices and Radiological Health. (2018).https://www.fda.gov/medical-devices/cosmetic-devices/dermal-fillers-approved-center-devices-and-radiological-health",
+                    "The FDA warns against injectable silicone for body contouring and enhancement. (2017).https://www.fda.gov/consumers/consumer-updates/fda-warns-against-injectable-silicone-body-contouring-and-enhancement",
+                    "Filling in wrinkles safely. (2017).https://www.fda.gov/consumers/consumer-updates/filling-wrinkles-safely",
+                    "Injectable fillers guide. (n.d.).https://www.americanboardcosmeticsurgery.org/procedure-learning-center/non-surgical/injectable-fillers-guide/",
+                    "Sharad J. (2012). Dermal fillers for the treatment of tear trough deformity: A review of anatomy, treatment techniques, and their outcomes. DOI:https://dx.doi.org/10.4103%2F0974-2077.104910",
+                    "Van Loghem J, et al. (2015). Calcium hydroxylapatite: Over a decade of clinical experience.http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4295857/",
+                    "What is the best filler for under the eye? (n.d.).https://www.surgery.org/consumers/ask-a-surgeon/filler-eye"
+                ],
+                "post_list_text": ""
+            }
+        ]
+    },
+    "ordered_lists": {
+        "H3: Procedure": [
+            {
+                "pre_list_text": "Here\u2019s a general breakdown of the procedure:",
+                "list_items": [
+                    "1. Your doctor will mark the area where the injection will take place and sterilize it with cleansing fluid.",
+                    "2. They\u2019ll apply a numbing cream to the area and will let it absorb into the skin for a few minutes.",
+                    "3. Your doctor will use a small needle to pierce the skin. In some instances, they\u2019ll inject the filler into the area through the needle. In other instances, a blunt-edged cannula containing the filler will be inserted into the hole made by the needle.",
+                    "4. One or more injections will be required under each eye. If linear threading is done, your doctor will inject a tunnel of filler into the site as the needle is slowly withdrawn.",
+                    "5. Your doctor will smooth the filler into place."
+                ],
+                "post_list_text": "If you\u2019re having a fat transfer, you\u2019ll first undergoliposuctionunder general anesthesia."
+            }
+        ]
+    }
+}
