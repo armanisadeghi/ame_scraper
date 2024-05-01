@@ -4,7 +4,7 @@ import scrapy
 
 
 class AmeScraperItem(scrapy.Item):
-    print("[Scrapy Items.py) AmeScraperItem")
+    # print("[Scrapy Items.py) AmeScraperItem")
     url = scrapy.Field()
     clean_body = scrapy.Field()
     header_structure = scrapy.Field()
@@ -14,3 +14,6 @@ class AmeScraperItem(scrapy.Item):
     schema_org_data = scrapy.Field()
     title = scrapy.Field()
     sitemap_contents = scrapy.Field()
+
+    def __repr__(self):
+        return repr(f'AmeScraperItem: {self["url"]}')

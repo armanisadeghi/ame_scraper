@@ -67,7 +67,7 @@ class UrlSpider(scrapy.Spider):
         else:
             urls = sitemap_urls_from_robots(response.text)
             for url in urls:
-                if "sitemap" in url and url not in self._sitemap_urls:
+                if "sitemap" in url and url not in self._sitemap_urls and url.startswith('http'):
                     self._sitemap_urls.add(url)
                     yield scrapy.Request(url, callback=self._parse_sitemap)
 
@@ -99,7 +99,7 @@ class UrlSpider(scrapy.Spider):
             content = excluded.content, content_hash = excluded.content_hash, title = excluded.title
             """, (page_id, title, clean_body, content_hash, len(clean_body)))
         # Output item
-        item = {
+        item = AmeScraperItem({
             "url": response.url,
             "title": title,
             "clean_body": clean_body,
@@ -109,7 +109,7 @@ class UrlSpider(scrapy.Spider):
             "schema_org_data": schema_org_data,
             "sitemap_links": list(self._sitemap_urls),
             "sitemap_contents": list(self._sitemap_contents),
-        }
+        })
         yield item
 
     def _get_or_create_domain(self, url):
